@@ -12,7 +12,6 @@ export const Header: React.FC = () => {
         <p>Our Details</p>
         <Search/>
         <ShoppingCart/>
-
         <hr />
       </div>
     );
