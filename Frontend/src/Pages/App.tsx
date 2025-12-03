@@ -8,6 +8,7 @@ export const App: React.FC = () => {
       <Header/>
       <img src={Banner} alt="Banner"/>
       <h1>Novos Produtos</h1>
+      <p></p>
     </>
   );
 };
