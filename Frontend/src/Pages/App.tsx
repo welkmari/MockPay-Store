@@ -7,7 +7,7 @@ export const App: React.FC = () => {
     <>
       <Header/>
       <img src={Banner} alt="Banner"/>
-      <h1>Novos Produtos</h1>
+      <h2 className='text-3xl'>Novos Produtos</h2>
       <p></p>
     </>
   );
