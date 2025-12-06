@@ -1,13 +1,13 @@
-import { Header } from "../Components/Header";
+import Header from "../components/Header";
 import Banner from "../Assets/Banner.png";
-import Carrousel from "../Components/Carrousel";
+import Carousel from "../components/CarouselSize";
 
 export default function Home() {
   return (
     <>
       <Header />
       <img src={Banner} alt="Banner" />
-      <Carrousel/>
+      <Carousel/>
     </>
   );
 }

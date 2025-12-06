@@ -2,10 +2,10 @@
 @import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
-
-@tailwind base;
-@tailwind components;
+@import "tailwindcss/preflight"
 @tailwind utilities;
+
+@import "@/components/ui/carousel/style.css";
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
