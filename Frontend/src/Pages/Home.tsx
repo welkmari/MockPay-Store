@@ -1,6 +1,6 @@
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import Banner from "../Assets/Banner.png";
-import Carousel from "../components/CarouselSize";
+import Carousel from "../Components/CarouselSize";
 import builds from "../Assets/builds.png"
 import msilaptops from "../Assets/msilaptops.png"
 
