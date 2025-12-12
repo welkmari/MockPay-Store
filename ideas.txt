@@ -3,4 +3,3 @@ aprender boas praticas
 entender como funciona o react debaixo dos panos
 aprender a tipar
 usar libs conhecidas
-fazer tests
