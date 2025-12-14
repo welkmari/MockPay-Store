@@ -5,3 +5,4 @@ aprender a tipar
 usar libs conhecidas
 implementar pagamentos
 estudar typescript
+estudar
