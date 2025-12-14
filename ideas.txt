@@ -4,3 +4,4 @@ entender como funciona o react debaixo dos panos
 aprender a tipar
 usar libs conhecidas
 recriar as imagens
+realizar pagamentos
