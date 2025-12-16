@@ -6,4 +6,4 @@ usar libs conhecidas
 implementar pagamentos
 estudar typescript
 estudar
-testes automatizados
+testes automatizados e debuggar na mao
