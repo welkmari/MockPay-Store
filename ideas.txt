@@ -1,9 +1,9 @@
 docs para salvar ideias
 aprender boas praticas
 entender como funciona o react debaixo dos panos
+entender como funciona as libs usadas debaixo dos panos
 aprender a tipar
 usar libs conhecidas
 implementar pagamentos
 estudar typescript
-estudar
 testes automatizados e debuggar na mao
