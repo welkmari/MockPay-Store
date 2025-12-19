@@ -1,10 +1,8 @@
-docs para salvar ideias
-aprender boas praticas
+aprender e aplicar boas praticas
+estudar typescript e aprender a tipar
 entender como funciona o react debaixo dos panos
 entender como funciona as libs usadas debaixo dos panos
-aprender a tipar
 usar libs conhecidas
-implementar pagamentos
-estudar typescript
 testes automatizados
 debuggar na mao
+implementar pagamentos
