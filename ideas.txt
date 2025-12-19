@@ -6,4 +6,5 @@ aprender a tipar
 usar libs conhecidas
 implementar pagamentos
 estudar typescript
-testes automatizados e debuggar na mao
+testes automatizados
+debuggar na mao
