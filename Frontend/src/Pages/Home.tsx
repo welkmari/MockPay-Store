@@ -14,3 +14,4 @@ export default function Home() {
       <img src={msilaptops} alt="Laptops" />
     </>
   );
+//commit
