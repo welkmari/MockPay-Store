@@ -5,4 +5,4 @@ entender como funciona as libs usadas debaixo dos panos
 usar libs conhecidas
 testes automatizados
 debuggar na mao
-implementar pagamentos dsadsa
+implementar pagamentos 
