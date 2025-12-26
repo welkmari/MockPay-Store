@@ -6,3 +6,4 @@ usar libs conhecidas
 testes automatizados
 debuggar na mao
 implementar pagamentos 
+implementar funcoes limpas
