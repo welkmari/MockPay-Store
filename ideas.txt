@@ -7,3 +7,4 @@ testes automatizados
 debuggar na mao
 implementar pagamentos 
 implementar funcoes limpas e objetivas
+usar clean code
