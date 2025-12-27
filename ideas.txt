@@ -8,3 +8,4 @@ debuggar na mao
 implementar pagamentos 
 implementar funcoes limpas e objetivas
 usar clean code e suas praticas, melhorando legibilidade
+trazer funcoes limpas
